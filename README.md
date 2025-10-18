@@ -6,7 +6,7 @@ Built to explore how Zustand makes global state simpler and cleaner than Redux �
 ---
 
 ## 🚀 Live Demo
-🔗 [View on Netlify](https://your-netlify-link.netlify.app)
+🔗 [View on Netlify](https://zustand-counter-app.netlify.app/)
 
 ---
 
@@ -29,7 +29,7 @@ Built to explore how Zustand makes global state simpler and cleaner than Redux �
 
 ## 🏗️ Setup
 ```bash
-git clone https://github.com/your-username/zustand-counter-app.git
+git clone https://github.com/iamowais123/zustand-counter-app.git
 cd zustand-counter-app
 npm install
 npm start
